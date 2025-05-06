@@ -1,4 +1,4 @@
 # 6thMay
 This is trial.
 <br>
-Author - Hasti Lathiya
+Author - Hasti Lathiya(master's student)
